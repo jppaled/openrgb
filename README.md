@@ -1,5 +1,7 @@
 # openrgb
-OpenRGB profile
+OpenRGB rainbow color profile
+
+Tested on Razer Ornata Chroma
 
 ## Installation
 - Copy `rainbow.orp` file into your openrgb folder config
